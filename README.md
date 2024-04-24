@@ -4,7 +4,7 @@
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Eliasbarrosojr&theme=blue-green&show_icons=true&count_private=false&hide_border=true" title="Elias Barroso Junior github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Eliasbarrosojr&theme=blue-green&show_icons=true&rank_icon=github&count_private=false&hide_border=true" title="Elias Barroso Junior github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eliasbarrosojr&theme=blue-green&layout=compact&hide_border=true" />
 </div>
 
